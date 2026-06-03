@@ -50,3 +50,12 @@ The dataset was cleaned using Python (Pandas in Google Colab).
   - Profit Margin
 - Handled missing and infinite values
 - Exported cleaned dataset for analysis
+## Key Features Created
+
+- Order Year extracted from Order Date
+- Month-Year for trend analysis
+- Profit Margin calculated for business insights
+
+## Dataset Status
+
+The dataset is clean and ready for analysis and dashboard creation.
