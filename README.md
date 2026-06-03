@@ -56,6 +56,9 @@ The dataset was cleaned using Python (Pandas in Google Colab).
 - Month-Year for trend analysis
 - Profit Margin calculated for business insights
 
-## Dataset Status
+##  Live Dashboard
 
-The dataset is clean and ready for analysis and dashboard creation.
+This project is deployed using Streamlit Cloud.
+
+ Live App Link:
+PASTE YOUR LINK HERE
