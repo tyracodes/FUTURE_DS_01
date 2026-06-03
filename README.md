@@ -36,3 +36,17 @@ FUTURE_DS_01
 ## Project Status
 
 Data cleaning in progress.
+## Data Cleaning Process
+
+The dataset was cleaned using Python (Pandas in Google Colab).
+
+### Steps Performed:
+- Removed duplicate records
+- Converted Order Date and Ship Date to datetime format
+- Created new analysis columns:
+  - Order Year
+  - Order Month
+  - Month-Year
+  - Profit Margin
+- Handled missing and infinite values
+- Exported cleaned dataset for analysis
