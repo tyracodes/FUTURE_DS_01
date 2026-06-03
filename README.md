@@ -60,5 +60,5 @@ The dataset was cleaned using Python (Pandas in Google Colab).
 
 This project is deployed using Streamlit Cloud.
 
- Live App Link:
-PASTE YOUR LINK HERE
+Live App Link for the dashboard for task 1:
+https://futureds01-ymfqdedaarwcvhnpx8t2ky.streamlit.app/
