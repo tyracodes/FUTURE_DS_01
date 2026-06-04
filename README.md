@@ -19,8 +19,8 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Tools Used
 
-- Microsoft Excel
-- Power BI
+- Python
+- Streamlit
 - GitHub
 
 ## Project Structure
@@ -33,9 +33,7 @@ FUTURE_DS_01
 ├── report
 └── README.md
 
-## Project Status
 
-Data cleaning in progress.
 ## Data Cleaning Process
 
 The dataset was cleaned using Python (Pandas in Google Colab).
