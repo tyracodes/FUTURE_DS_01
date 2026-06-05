@@ -48,7 +48,7 @@ The dataset was cleaned using Python (Pandas in Google Colab).
 This project is deployed using Streamlit Cloud.
 
 Live App Link for the dashboard for task 1:
-https://futureds01-ymfqdedaarwcvhnpx8t2ky.streamlit.app/
+https://futureds01-87ucfb8bx6fcag4egrtuwb.streamlit.app/
 ## Business Insights
 
 After analyzing the Superstore dataset, the following key insights were discovered:
