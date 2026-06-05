@@ -17,7 +17,7 @@ def load_data():
 
     return df
 
-# IMPORTANT: actually call the function
+
 df = load_data()
 
 # CUSTOM CSS
