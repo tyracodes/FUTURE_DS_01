@@ -11,15 +11,14 @@ st.set_page_config(
 # LOAD DATA
 @st.cache_data
 def load_data():
-    import os
+    file_path = os.path.join(os.path.dirname(__file__), "Superstore_Cleaned.csv")
 
-    file_path = os.path.join(os.path.dirname(__file__), "Superstore_Cleaned.csv",encoding="ISO-8859-1")
-
-    df = pd.read_csv(file_path, sep=";")
-    df["converted"] = df["y"].map({"yes": 1, "no": 0})
+    df = pd.read_csv(file_path, encoding="ISO-8859-1")
 
     return df
-#df = pd.read_csv("data/Superstore_Cleaned.csv", encoding="ISO-8859-1")
+
+# IMPORTANT: actually call the function
+df = load_data()
 
 # CUSTOM CSS
 st.markdown("""
